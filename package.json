@@ -1,0 +1,23 @@
+{
+  "name": "week10",
+  "version": "1.0.0",
+  "description": "week10",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCoolio/node-mysql.git"
+  },
+  "author": "JCoolio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JCoolio/node-mysql/issues"
+  },
+  "homepage": "https://github.com/JCoolio/node-mysql#readme",
+  "dependencies": {
+    "mysql": "^2.10.2",
+    "prompt": "^1.0.0"
+  }
+}
